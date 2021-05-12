@@ -1,3 +1,5 @@
+[Hey there! I'm Shreyas]("../blob/master/intro1.gif)
+<--
 ### Hey! 👋
 #### I'm an Electrical Engineer exploring software as a hobby
 
