@@ -1,4 +1,4 @@
-[Hey there! I'm Shreyas]("https://github.com/shreyasdethe/shreyasdethe/blob/main/intro1.gif")
+![Hey there! I'm Shreyas]("https://github.com/shreyasdethe/shreyasdethe/blob/main/intro1.gif")
 <!--
 ### Hey! 👋
 #### I'm an Electrical Engineer exploring software as a hobby
